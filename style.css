@@ -1,0 +1,39 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+h2 a{  
+    color: green;
+    text-align: center;
+}
+
+h2 :hover{ color: red;}
+
+a:active{ color: blue;}
+
+h2{text-align: center;}
+
+body{
+     position: absolute;
+     left: 25%;
+}
+
+table tr td{
+    border: 0.5 solid white;
+    padding:10px 15px;
+    border-collapse: collapse;
+    width: 200px
+}
+table td{color: white;}
+
+.n1,#n1{background-color:rgb(32, 135, 133) ; }
+.n2,#n2{background-color: brown;}
+.n3,#n3{background-color: aqua;}
+
+.n4,#n4,.n8,#n8{ background-color:blue;}
+.n5,#n5{ background-color: rgb(21, 75, 21);}
+
+.n6,#n6{background-color: rgb(82, 24, 24);}
+.n7,#n7{background-color: orange;}
+.n9,#n9{background-color: violet;}
